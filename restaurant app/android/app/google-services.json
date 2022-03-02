@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534018842470",
+    "project_id": "to-do-list-9313e",
+    "storage_bucket": "to-do-list-9313e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534018842470:android:e9f613d4a1eb7d931e72a7",
+        "android_client_info": {
+          "package_name": "com.fadesoftware.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534018842470-8u29jnsol1plkk12ualk945vonrsjr1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxQ8CTkds1kbUnqQqH-eNEiHH9xfM0BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534018842470-8u29jnsol1plkk12ualk945vonrsjr1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
