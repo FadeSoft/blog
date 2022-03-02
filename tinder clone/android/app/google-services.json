@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662585323183",
+    "project_id": "tinderclone-4558e",
+    "storage_bucket": "tinderclone-4558e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662585323183:android:598bd134ed8197c1e0ee5a",
+        "android_client_info": {
+          "package_name": "com.example.tinderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662585323183-e866ohn0sot5b0qof3r59lbo6r44jkrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2m6ttVY8mVkhZO0buSyaSwfwRMx4ipq4"
+          
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662585323183-e866ohn0sot5b0qof3r59lbo6r44jkrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
