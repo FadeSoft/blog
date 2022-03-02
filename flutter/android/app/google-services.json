@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484144988728",
+    "project_id": "blogyazisisil",
+    "storage_bucket": "blogyazisisil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484144988728:android:d85f9c3eb4b44f3acadccd",
+        "android_client_info": {
+          "package_name": "com.example.blogyazi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484144988728-ipmgg7r21vipksu2miemqfugvnvh2ilh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-6PwFDuc02cXOKlQiXIZiIXbDvkA_NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484144988728-ipmgg7r21vipksu2miemqfugvnvh2ilh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
